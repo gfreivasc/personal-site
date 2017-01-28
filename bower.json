@@ -1,0 +1,25 @@
+{
+  "name": "gabriel-personal-site",
+  "homepage": "http://gabrielfv.com",
+  "authors": [
+    "Gabriel Vasconcelos <gfreivasc@gmail.com>"
+  ],
+  "description": "Gabriel's Personal Website @ http://gabrielfv.com",
+  "main": "index.html",
+  "keywords": [
+    "Personal",
+    "Website"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
