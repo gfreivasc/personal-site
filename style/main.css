@@ -1,0 +1,44 @@
+body {
+    font-family: 'Sansita', sans-serif;
+}
+
+h1, h2 {
+    font-weight: 500;
+    font-family: 'Slabo 27px', serif;
+}
+
+a {
+    color: #76FF03;
+}
+
+.jumbotron {
+    background-image: url("../img/background_header.png");
+    background-color: rgba(36, 153, 36, 1) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0px;
+    color: white;
+}
+
+#header img.header-logo {
+    width: 100%;
+    max-width: 128px;
+}
+
+#sub-header {
+    background-color: rgba(36, 153, 36, 1) !important;
+    color: white;
+    padding: 15px 15px 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img#me {
+    border-radius: 50%;
+    max-width: 100%;
+}
+
+.sh-icons a {
+    margin-left: 5px;
+    margin-right: 5px;
+}
