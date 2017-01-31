@@ -57,4 +57,32 @@ img#me {
     display: inline-block;
     color: #64DD17;
     max-height: 6rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#hobbies-wrapper {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.list-bullet {
+    color: #64DD17;
+}
+
+.language-area {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+.language-desc {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.content-image {
+    width: 100%;
+    max-width: 200px;
 }
