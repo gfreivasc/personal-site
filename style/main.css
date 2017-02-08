@@ -42,6 +42,11 @@ img#me {
     margin-left: 5px;
     margin-right: 5px;
     font-size: 18px;
+    font-weight: 600;
+}
+
+.sh-icons a:hover {
+    color: #69F0AE;
 }
 
 #content-wrapper {
